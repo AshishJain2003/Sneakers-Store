@@ -39,12 +39,6 @@ nav {
     color: black;
 }
 
-/* .limitedOffer {
-    font-size: 20px;
-    border-bottom: 2px solid green;
-    cursor: pointer;
-} */
-
 .navBottom {
     display: flex;
     align-items: center;
@@ -80,13 +74,6 @@ nav {
     position: relative;
 }
 
-/* .slideBg {
-    width: 750px;
-    height: 750px;
-    border-radius: 50%;
-    position: absolute;
-}*/
-
 .sliderImg {
     z-index: 1;
 }
@@ -110,7 +97,6 @@ nav {
     color: white;
     font-size: 60px;
     font-weight: 200;
-    /* border: 1px solid gray; */
     z-index: 1;
 }
 
@@ -518,7 +504,6 @@ label {
     .buyButton {
         right: 0;
         top: 0;
-        /* font-size: 1rem; */
     }
 
     .features {
@@ -553,7 +538,6 @@ label {
     }
 
     .gallery {
-        /* display: none; */
         flex-direction: column;
     }
 
